@@ -1,0 +1,4 @@
+i202213701;12345gb;Gabriel Eduardo;Hinostroza Fernandez
+i202213087;123456;Mileidy Laura;Gutierrez Castaneda
+i202216786;123456;Patricia Evelyn;Macedo Norabuena
+i202222454;123456;Masiel ;Zabaleta Lopez
